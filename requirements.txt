@@ -1,0 +1,18 @@
+# Python dependencies for Alabama River Fish Population Genomics
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Scientific computing and statistics
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Biological data analysis
+scikit-bio>=0.5.8
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# File I/O and utilities
+pathlib2>=2.3.7
